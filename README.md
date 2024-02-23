@@ -1,8 +1,9 @@
 # Rikkie-portfolio
+
 ## A little bit about me
 
 ## My work experience
 
-##**Skills**
+## **Skills**
 
-##**Past projects**
+## **Past projects**
