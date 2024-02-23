@@ -1,2 +1,8 @@
 # Rikkie-portfolio
-A personal portfolio that I created
+## A little bit about me
+
+## My work experience
+
+##**Skills**
+
+##**Past projects**
